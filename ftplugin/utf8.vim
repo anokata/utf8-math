@@ -47,6 +47,16 @@ imap <buffer> _- ₋
 imap <buffer> _= ₌
 imap <buffer> _( ₍
 imap <buffer> _) ₎
+imap <buffer> _a ₐ
+imap <buffer> _e ₑ
+imap <buffer> _o ₒ
+imap <buffer> _x ₓ
+imap <buffer> _h ₕ
+imap <buffer> _k ₖ
+imap <buffer> _l ₗ
+imap <buffer> _m ₘ
+imap <buffer> _n ₙ
+" Ctrl-Q u 2090
 
 " relational algebra
 imap <buffer> \join ⋈
@@ -158,3 +168,6 @@ imap <buffer> \Phi Φ
 imap <buffer> \Chi Χ
 imap <buffer> \Psi Ψ
 imap <buffer> \Omega Ω
+
+imap <buffer> \and ∧
+imap <buffer> \or ∨
